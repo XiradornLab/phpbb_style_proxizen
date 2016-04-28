@@ -1,7 +1,7 @@
 # ProXiZen 3.1.9
 ## Sub Style for Prosilver and phpBB
 Style for allowing you to do a direct style editing process in a sort of indirect and oldish way. This method also prevent the changes lost during phpBB updating process. Tested also on previous version of phpbb and it works.
-============
+*****
 # Style Data
 **Stile Name:** ProXiZen  
 **Author:** Sir Xiradorn (http://xiradorn.it)  
@@ -18,10 +18,9 @@ For Template editing: you must copy the original file from prosilver style into 
 **Repository Page:** https://github.com/XiradornLab/proxizen  
 **Progress:** Definitive Version  
 **Nota:**  
----  
+...
 
 **Screenshots:**  
----  
-============  
+...
 
 © 2016 - Sir Xiradorn - Lead Developer
