@@ -1,0 +1,15 @@
+/*  phpBB3 Style Sheet
+    --------------------------------------------------------------
+	Style name:			proxizen (quickstarting phpBB 3.1.x style)
+	Based on style:		prosilver
+	Original author:	Sir Xiradorn ( http://xiradorn.it/ )
+	Version:			3.1.9
+    --------------------------------------------------------------
+    Don't Edit this file! Make your changes into personal.css
+    --------------------------------------------------------------
+*/
+
+/* Import style from prosilver */
+@import url("../../prosilver/theme/stylesheet.css");
+
+@import url("personal.css");
