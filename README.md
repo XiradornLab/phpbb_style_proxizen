@@ -1,4 +1,4 @@
-# Proxizen
+# Proxizen  
 #### Sub Style for Prosilver  
 
 Style for allowing you to do a sort direct style editing process in indirect way. This method also prevent the changes lost during phpBB updating process.
