@@ -4,10 +4,10 @@ Style for allowing you to do a sort direct style editing process in indirect way
 This method also prevent the changes lost during phpBB updating process.
 ============
 # Style Data
-**Stile Name:** ProXiZen
-**Author:** Sir Xiradorn
-**Style Description:** Zen style prosilver oriented for allowing you to edit directly the style in a sort of indirect way. Direct editing in phpBB 3.1.X are not used for better update purpose.  
-For Theme editing: you can use the personal.css for all css.  
+**Stile Name:** ProXiZen  
+**Author:** Sir Xiradorn  
+**Style Description:** Zen style prosilver oriented for allowing you to edit directly the style in a sort of indirect way. Direct editing in phpBB 3.1.X are not used for better update purpose.
+For Theme editing: you can use the personal.css for all css.
 For Template editing: you must copy the original file from prosilver style into template folder of ProXiZen. Now you can directly modify the **new** file in a sort of oldish mode (phpBB 3.0 way for understanding).
 **Style Based:** Prosilver
 **Style Version:** 3.1.9
@@ -21,7 +21,7 @@ For Template editing: you must copy the original file from prosilver style into 
 **Nota:**
 ---
 
-**Screenshots:**
+**Screenshots:** 
 ---
 ============  
 
